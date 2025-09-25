@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.12.2",
+    "cipher-utils": "^1.0.2",
     "readline-sync": "^1.4.10"
   }
 }
