@@ -1,0 +1,8 @@
+git branch button
+git switch button
+added somefiels edited somefiesl
+git add . && commit
+git switch main
+git merge button
+git push origin main.
+
