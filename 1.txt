@@ -7,3 +7,10 @@ Some more code
 Last one
 
 sdf
+
+
+these are lines added later okay
+
+you will def a conflict now
+
+main branch lines mostly
